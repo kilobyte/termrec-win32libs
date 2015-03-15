@@ -1,0 +1,12 @@
+This is a set of win32 libraries needed for full functionality, in binary
+form.  You can grab their sources from their respective homepages:
+* http://www.zlib.net/
+* http://bzip.org/
+* http://tukaani.org/xz/
+
+All of these come with extremely permissive licenses, allowing distribution
+of sourceless binaries.  I'm thus skipping copying the sources, as building
+win32 blobs from them is not straightforward anyway.  The blobs provided
+here are their upstream official builds.  Yes, shipping such blobs is an
+anathema for a proper Free Software zealot, but this is only par for
+Windows...
